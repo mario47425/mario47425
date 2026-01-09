@@ -2,15 +2,17 @@
 
 ## 🌟 ABOUT ME
 
-- 🌍 Based in **Coimbatore, Tamil Nadu, India**
-- 📚 Currently studying **B.Tech Information Technology**
-- 📧 Reach me at **marioxavier47425@gmail.com**
+ 🌍 Based in **Coimbatore, Tamil Nadu, India**<br>
+ 📚 Currently studying **B.Tech Information Technology**<br>
+ 🚀 Eager in learning new things<br>
+ 📧 Reach me at **marioxavier47425@gmail.com**
 <hr>
 
-### PAST ACTIVITIES
+### ACTIVITIES
 
 -  Participated in a **10-hour hackathon** focused on real-time problem solving for **differently abled individuals** using **OpenCV**
-- Won 3RD prize for showcasing our project at  VIT National Hackathon on AI and IoT for future green mobility
+- Won 3 prize for showcasing our project at  VIT National Hackathon on AI and IoT for future green mobility
+- Currently working on Multi-sign language based project
 <hr>
 
 ### TECHS KNOWN
