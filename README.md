@@ -4,8 +4,14 @@
 
  🌍 Based in **Coimbatore, Tamil Nadu, India**<br>
  📚 Currently studying **B.Tech Information Technology**<br>
- 🚀 Eager in learning new things<br>
- 📧 Reach me at **marioxavier47425@gmail.com**
+ 🚀 Eager to learning new things<br>
+ 
+ 
+ <a href="mailto:marioxavier47425@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"alt="Gmail"/>
+ </a> </a> 
+ 
+
 <hr>
 
 ### ACTIVITIES
