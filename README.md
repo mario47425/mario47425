@@ -11,8 +11,8 @@
 ### ACTIVITIES
 
 -  Participated in a **10-hour hackathon** focused on real-time problem solving for **differently abled individuals** using **OpenCV**
-- Won 3 prize for showcasing our project at  VIT National Hackathon on AI and IoT for future green mobility
-- Currently working on Multi-sign language based project
+- Won VIT National Hackathon for showcasing our project on AI and IoT for future green mobility
+- Currently working on Multiple sign language based project
 <hr>
 
 ### TECHS KNOWN
